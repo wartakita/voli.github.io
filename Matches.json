@@ -5,8 +5,7 @@
     "mp4": "https://example.com/video1.mp4",
     "teams": "Team A vs Team B",
     "date": "2025-01-15",
-    "time": "19:00",
-    "description": "Description of the match between Team A and Team B."
+    "time": "19:00"
   },
   {
     "videoId": "2",
@@ -14,7 +13,6 @@
     "mp4": "https://example.com/video2.mp4",
     "teams": "Team C vs Team D",
     "date": "2025-01-16",
-    "time": "20:00",
-    "description": "Description of the match between Team C and Team D."
+    "time": "20:00"
   }
 ]
