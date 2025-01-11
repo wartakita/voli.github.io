@@ -35,7 +35,6 @@
     "time": "19:30",
     "category": "Percobaan 4"
   },
-  [
   {
     "videoId": "1",
     "m3u8": "https://example.com/video1.m3u8",
@@ -72,7 +71,6 @@
     "time": "19:30",
     "category": "Percobaan 8"
   },
-  [
   {
     "videoId": "1",
     "m3u8": "https://example.com/video1.m3u8",
