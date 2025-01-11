@@ -1,18 +1,10 @@
 [
   {
-    "videoId": "3",
-    "m3u8": "https://example.com/video3.m3u8",
-    "mp4": "https://example.com/video3.mp4",
-    "teams": "Team E vs Team F",
-    "date": "2025-01-20",
-    "time": "18:00"
-  },
-  {
-    "videoId": "4",
-    "m3u8": "https://example.com/video4.m3u8",
-    "mp4": "https://example.com/video4.mp4",
-    "teams": "Team G vs Team H",
-    "date": "2025-01-21",
-    "time": "19:30"
+    "videoId": "1",
+    "m3u8": "https://example.com/video1.m3u8",
+    "mp4": "https://vibetv.github.io/offline/streamoffline.mp4",
+    "teams": "Team A vs Team B",
+    "date": "2025-01-15",
+    "time": "19:00"
   }
 ]
