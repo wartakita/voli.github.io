@@ -1,7 +1,7 @@
 [
     {
         "videoId": "1",
-        "m3u8": "#",
+        "m3u8": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8",
         "mp4": "https://vibetv.github.io/offline/streamoffline.mp4",
         "teams": "Kepco vs Woori",
         "date": "2025-01-14",
