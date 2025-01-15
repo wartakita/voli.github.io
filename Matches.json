@@ -1,15 +1,6 @@
 [
   {
-    "videoId": "00000",
-    "m3u8": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/zscax7sjsb2u7xqif8uy49a5ykkxpfcu2g/playlist.m3u8?hdnts=st=1736934629~exp=1736967039~acl=*/zscax7sjsb2u7xqif8uy49a5ykkxpfcu2g/*~hmac=22c5c57cd8324e582c99b7937f672a479c338744892825b7790c14221832654c",
-    "mp4": "https://vibetv.github.io/offline/streamoffline.mp4",
-    "teams": "Samsung Blue Fangs vs Hyundai Skywalkers",
-    "date": "2025-01-15",
-    "time": "17:00",
-    "category": "South Korea Volleyball League"
-  },
-  {
-    "videoId": "3",
+    "videoId": "17680",
     "m3u8": "https://example.com/video1.m3u8",
     "mp4": "https://vibetv.github.io/offline/streamoffline.mp4",
     "teams": "KB Stars vs Ansan OK",
@@ -99,16 +90,7 @@
     "category": "South Korea Volleyball League"
   },
   {
-    "videoId": "0000",
-    "m3u8": "https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/koygdvjthj1kegjjyfu9qjx44zfodnjv2g/playlist.m3u8?hdnts=st=1736934586~exp=1736966996~acl=*/koygdvjthj1kegjjyfu9qjx44zfodnjv2g/*~hmac=e2fd8c89185790f1b18040d8c8cd8ca1d633551f67d749ed38b2cfab8bef299f",
-    "mp4": "https://vibetv.github.io/offline/streamoffline.mp4",
-    "teams": "Expressway Co W vs GS Caltex W",
-    "date": "2025-01-15",
-    "time": "17:00",
-    "category": "South Korea Volleyball League Women"
-  },
-  {
-    "videoId": "15",
+    "videoId": "40620",
     "m3u8": "https://example.com/video1.m3u8",
     "mp4": "https://vibetv.github.io/offline/streamoffline.mp4",
     "teams": "Pepper Savings Bank W vs Hungkuk W",
