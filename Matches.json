@@ -1,7 +1,7 @@
 [
   {
-    "videoId": "17680",
-    "m3u8": "https://example.com/video1.m3u8",
+    "videoId": "0000",
+    "m3u8": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/jpsdoqf8viidbfsqq95susgjglr6n366ix/playlist.m3u8?hdnts=st=1737020925~exp=1737053335~acl=*/jpsdoqf8viidbfsqq95susgjglr6n366ix/*~hmac=04ed2a1bbdf6aad6101d74574e01c4d773f437a95425b4b4f6adfb298c35dbab",
     "mp4": "https://vibetv.github.io/offline/streamoffline.mp4",
     "teams": "KB Stars vs Ansan OK",
     "date": "2025-01-16",
@@ -90,8 +90,8 @@
     "category": "South Korea Volleyball League"
   },
   {
-    "videoId": "40620",
-    "m3u8": "https://example.com/video1.m3u8",
+    "videoId": "0000",
+    "m3u8": "https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/c5apu6z5pct8hohpx5fgbty5zf6grolsdg/playlist.m3u8?hdnts=st=1737020991~exp=1737053401~acl=*/c5apu6z5pct8hohpx5fgbty5zf6grolsdg/*~hmac=8e521e0b102315fce1ddc633a6f9b079cc00d808caa10ad17d37972a65d2bc18",
     "mp4": "https://vibetv.github.io/offline/streamoffline.mp4",
     "teams": "Pepper Savings Bank W vs Hungkuk W",
     "date": "2025-01-16",
