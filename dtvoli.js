@@ -39,7 +39,7 @@ function initializePlayer(videoId, m3u8, mp4, iframeUrl, title) {
             });
             jwplayer().on('error', function() {
                 console.error('Error with MP4, switching to iframe');
-                document.getElementById('player').innerHTML = `<iframe src="${iframeUrl}" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>`;
+                document.getElementById('player').innerHTML = `<iframe src="${iframeUrl}" width="100%" height="100%" frameborder="0" sandbox="allow-scripts allow-same-origin" allowfullscreen="true"></iframe>`;
             });
         });
     });
