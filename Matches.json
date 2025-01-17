@@ -208,7 +208,7 @@
   },
   {
     "videoId": "30",
-    "m3u8": "#",
+    "m3u8": "https://example.com/video2.m3u8",
 	"iframeUrl": "https://player.kick.com/pisangg",
     "mp4": "https://vibetv.github.io/offline/streamoffline.mp4",
     "teams": "Jakarta Popsivo W vs Jakarta Livin Mandiri W",
@@ -218,7 +218,7 @@
   },
   {
     "videoId": "31",
-    "m3u8": "#",
+    "m3u8": "https://example.com/video2.m3u8",
 	"iframeUrl": "https://player.kick.com/pisangg",
     "mp4": "https://vibetv.github.io/offline/streamoffline.mp4",
     "teams": "Gresik Petrokimia W vs Jakarta Elektrik W",
