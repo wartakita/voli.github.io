@@ -208,7 +208,8 @@
   },
   {
     "videoId": "30",
-    "m3u8": "https://video-weaver.hkg06.hls.live-video.net/v1/playlist/Cr4FAxRyzFzENIe_8sOn76PEF_khiEygJo1Md2yo9xuLODx4CSyEF3Bbf0i5ItzSFWG1XcwtFaIcQXnxz3YuF40smK5qQg_RAgPOXqPqmVsX7_Rh22Bcj3rITKK5K35GpSnk1m1X5K4XFJaAw3r8kNM7bfwdiap8YQ3K9NTJbCXDnmvup7SyoJhrG48Z46h1QIbHcZwpsM30NeF3h5x0d7ezq5aev8geCRgtircIXy-MF2wiI9NroOFkBrz7rfT8dHgjKBOG61qyUE2kHVFTBVL0XiWzpN2D5LI7JWSe2AMVb3_-zCVRTktLEAmgypk5v5JOAtXlcLS9CSxvBwBnU5u36UC_p56RCUr56jrozdK9bYbgNq_NQtDVaGuJ10gq96yRAIzbajQAszJyLGWUnU04enOiPbOoJOzoDT_ijcL34NaAV1z7kcp0Qyr88e2H4rHh_lArvI1IDyG6bQpciHUDIRjzUlEyh0MBdsRRWbpspWZxLfGNTsK2s0zdET4O8i6YVOCMQCuMNxHmMBicTUBIlLaWe7vXlMcQnpPCO73Sj2q5669pCZdiCDioM77DJ8ftU4IDXbCKW2znfWvtSKB_wf3qTSiTZ3HMwtP35ho-bETAerkvUq2LPZ6pvrtCfjawogKKN-iEMAiPdKywCQN6iyDqea03Xir0wskmIP8E0_QfZzrZc_SjFULavFHuyHGt6a-LafgT3S0q9h5ixKm9nwO_4qyMWmcJM48_uHPh8nFWQOybkOAJp60bJYD3JygjNmwx3fSt5HHI5AajgEm1qf9TDZXL0DTMStF3wiGDK0W-B6f07z2kvyvk1p6NGBj5dnhsMMduRW1N9KEIVrFuWYIZO29TAdAPj91Gcw5D3AZVAQAVklS_SJh9R_USM-knCbQDzbkOpXyMqiYcMKIL_-sdNix9ZTrjLd7vDUfKGgzANSrwMaXHUsQc5V4gASoJdXMtd2VzdC0yMK0L.m3u8",
+    "m3u8": "#",
+	"iframeUrl": "https://player.kick.com/pisangg",
     "mp4": "https://vibetv.github.io/offline/streamoffline.mp4",
     "teams": "Jakarta Popsivo W vs Jakarta Livin Mandiri W",
     "date": "2025-01-17",
@@ -217,7 +218,8 @@
   },
   {
     "videoId": "31",
-    "m3u8": "https://video-weaver.hkg06.hls.live-video.net/v1/playlist/Cr4FAxRyzFzENIe_8sOn76PEF_khiEygJo1Md2yo9xuLODx4CSyEF3Bbf0i5ItzSFWG1XcwtFaIcQXnxz3YuF40smK5qQg_RAgPOXqPqmVsX7_Rh22Bcj3rITKK5K35GpSnk1m1X5K4XFJaAw3r8kNM7bfwdiap8YQ3K9NTJbCXDnmvup7SyoJhrG48Z46h1QIbHcZwpsM30NeF3h5x0d7ezq5aev8geCRgtircIXy-MF2wiI9NroOFkBrz7rfT8dHgjKBOG61qyUE2kHVFTBVL0XiWzpN2D5LI7JWSe2AMVb3_-zCVRTktLEAmgypk5v5JOAtXlcLS9CSxvBwBnU5u36UC_p56RCUr56jrozdK9bYbgNq_NQtDVaGuJ10gq96yRAIzbajQAszJyLGWUnU04enOiPbOoJOzoDT_ijcL34NaAV1z7kcp0Qyr88e2H4rHh_lArvI1IDyG6bQpciHUDIRjzUlEyh0MBdsRRWbpspWZxLfGNTsK2s0zdET4O8i6YVOCMQCuMNxHmMBicTUBIlLaWe7vXlMcQnpPCO73Sj2q5669pCZdiCDioM77DJ8ftU4IDXbCKW2znfWvtSKB_wf3qTSiTZ3HMwtP35ho-bETAerkvUq2LPZ6pvrtCfjawogKKN-iEMAiPdKywCQN6iyDqea03Xir0wskmIP8E0_QfZzrZc_SjFULavFHuyHGt6a-LafgT3S0q9h5ixKm9nwO_4qyMWmcJM48_uHPh8nFWQOybkOAJp60bJYD3JygjNmwx3fSt5HHI5AajgEm1qf9TDZXL0DTMStF3wiGDK0W-B6f07z2kvyvk1p6NGBj5dnhsMMduRW1N9KEIVrFuWYIZO29TAdAPj91Gcw5D3AZVAQAVklS_SJh9R_USM-knCbQDzbkOpXyMqiYcMKIL_-sdNix9ZTrjLd7vDUfKGgzANSrwMaXHUsQc5V4gASoJdXMtd2VzdC0yMK0L.m3u8",
+    "m3u8": "#",
+	"iframeUrl": "https://player.kick.com/pisangg",
     "mp4": "https://vibetv.github.io/offline/streamoffline.mp4",
     "teams": "Gresik Petrokimia W vs Jakarta Elektrik W",
     "date": "2025-01-17",
