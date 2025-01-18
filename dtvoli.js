@@ -1,4 +1,3 @@
-// Fungsi untuk memformat tanggal ke model "24 December 2024"      
 function formatDate(dateString) {
     const months = [
         "January", "February", "March", "April", "May", "June",
