@@ -140,7 +140,7 @@
     "teams": "Nagoya vs Nagano",
     "league": "Japan SV.League",
     "videoId": "00000",
-    "m3u8Url": "https://example.com/video1.m3u8",
+    "m3u8Url": "https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xt6sSrF6/live.isml/.m3u8",
     "embedUrl": "https://www.youtube.com/embed/uDdjQnDD7hQ"
   },
   {
@@ -239,7 +239,7 @@
     "teams": "GS Caltex W vs Pepper Savings Bank W",
     "league": "South Korea Volleyball League Women",
     "videoId": "00000",
-    "m3u8Url": "https://example.com/video1.m3u8",
+    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/o4m9n4ddznfxny4o2idrphy5ins5ke9mss/playlist.m3u8?hdnts=st=1737270081~exp=1737302491~acl=*/o4m9n4ddznfxny4o2idrphy5ins5ke9mss/*~hmac=e03703e6300414267ef393e29482411641adad0171a613a3e353435900955903",
     "embedUrl": "https://www.youtube.com/embed/uDdjQnDD7hQ"
   },
   {
