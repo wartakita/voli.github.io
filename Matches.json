@@ -1,14 +1,5 @@
 [
   {
-    "date": "2025-01-19",
-    "time": "22:00",
-    "teams": "Lokomotiv Avia vs Dunav",
-    "league": "Bulgaria SuperLiga",
-    "videoId": "00000",
-    "m3u8Url": "https://example.com/video1.m3u8",
-    "embedUrl": "https://www.youtube.com/embed/uDdjQnDD7hQ"
-  },
-  {
     "date": "2025-01-21",
     "time": "00:30",
     "teams": "CSKA Sofia vs Levski Sofia",
@@ -18,15 +9,6 @@
     "embedUrl": "https://www.youtube.com/embed/uDdjQnDD7hQ"
   },
   {
-    "date": "2025-01-19",
-    "time": "19:00",
-    "teams": "Jakarta Lavani vs Palembang BS",
-    "league": "Indonesia Proliga",
-    "videoId": "00000",
-    "m3u8Url": "https://example.com/video1.m3u8",
-    "embedUrl": "https://playerhpkita.blogspot.com/?id=https://etslive-v3-vidio-com-tokenized.akamaized.net/live/18234/master.m3u8?hdnts=exp=1737300331~acl=/live/18234/master.m3u8!/hls-p/ingest_18234*/*!/hls-b/ingest_18234*/*~id=175769870~hmac=f0c27249416e592caaed3cd4a15cad6377277539693fc5eaef98e8a911ef936f"
-  },
-  {
     "date": "2025-01-24",
     "time": "19:00",
     "teams": "Jakarta Bhayangkara vs Palembang BS",
@@ -34,24 +16,6 @@
     "videoId": "00000",
     "m3u8Url": "https://example.com/video1.m3u8",
     "embedUrl": "https://www.youtube.com/embed/uDdjQnDD7hQ"
-  },
-  {
-    "date": "2025-01-19",
-    "time": "14:00",
-    "teams": "Jakarta Pertamina W vs Yogya Falcons W",
-    "league": "Indonesia Proliga Women",
-    "videoId": "00000",
-    "m3u8Url": "https://example.com/video1.m3u8",
-    "embedUrl": "https://playerhpkita.blogspot.com/?id=https://etslive-v3-vidio-com-tokenized.akamaized.net/live/18234/master.m3u8?hdnts=exp=1737282948~acl=/live/18234/master.m3u8!/hls-p/ingest_18234*/*!/hls-b/ingest_18234*/*~id=175769870~hmac=74190676fca9ba2c0784e6c24a622d438e7cd13612dcd14a88c2ed2a063dab95"
-  },
-  {
-    "date": "2025-01-19",
-    "time": "16:30",
-    "teams": "Jakarta Elektrik W vs Jakarta Livin Mandiri W",
-    "league": "Indonesia Proliga Women",
-    "videoId": "00000",
-    "m3u8Url": "https://example.com/video1.m3u8",
-    "embedUrl": "https://playerhpkita.blogspot.com/?id=https://etslive-v3-vidio-com-tokenized.akamaized.net/live/18234/master.m3u8?hdnts=exp=1737292007~acl=/live/18234/master.m3u8!/hls-p/ingest_18234*/*!/hls-b/ingest_18234*/*~id=175769870~hmac=bc4a9c689a9de5d3e676f3f9d7e861f33c47cfbf457ab3f14a71bd6769592fbe"
   },
   {
     "date": "2025-01-24",
@@ -99,69 +63,6 @@
     "embedUrl": "https://www.youtube.com/embed/uDdjQnDD7hQ"
   },
   {
-    "date": "2025-01-19",
-    "time": "11:05",
-    "teams": "JT Thunders vs JTEKT",
-    "league": "Japan SV.League",
-    "videoId": "00000",
-    "m3u8Url": "https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yz9L5MN7/live.isml/.m3u8",
-    "embedUrl": "https://www.youtube.com/embed/uDdjQnDD7hQ"
-  },
-  {
-    "date": "2025-01-19",
-    "time": "11:35",
-    "teams": "Voreas Hokkaido vs Suntory Sunbirds",
-    "league": "Japan SV.League",
-    "videoId": "00000",
-    "m3u8Url": "https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iSVDfjqx/live.isml/.m3u8",
-    "embedUrl": "https://www.youtube.com/embed/uDdjQnDD7hQ"
-  },
-  {
-    "date": "2025-01-19",
-    "time": "12:05",
-    "teams": "Tokyo Great Bears vs Osaka Sakai",
-    "league": "Japan SV.League",
-    "videoId": "00000",
-    "m3u8Url": "https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6gznBJnS/live.isml/.m3u8",
-    "embedUrl": "https://www.youtube.com/embed/uDdjQnDD7hQ"
-  },
-  {
-    "date": "2025-01-19",
-    "time": "12:05",
-    "teams": "Toray Arrows vs Osaka Bluteon",
-    "league": "Japan SV.League",
-    "videoId": "00000",
-    "m3u8Url": "https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/X9q8YxTc/live.isml/.m3u8",
-    "embedUrl": "https://www.youtube.com/embed/uDdjQnDD7hQ"
-  },
-  {
-    "date": "2025-01-19",
-    "time": "14:05",
-    "teams": "Nagoya vs Nagano",
-    "league": "Japan SV.League",
-    "videoId": "00000",
-    "m3u8Url": "https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xt6sSrF6/live.isml/.m3u8",
-    "embedUrl": "https://www.youtube.com/embed/uDdjQnDD7hQ"
-  },
-  {
-    "date": "2025-01-19",
-    "time": "20:45",
-    "teams": "Belchatow vs Kedzierzyn-Kozle",
-    "league": "Poland PlusLiga",
-    "videoId": "00000",
-    "m3u8Url": "https://example.com/video1.m3u8",
-    "embedUrl": "https://www.youtube.com/embed/uDdjQnDD7hQ"
-  },
-  {
-    "date": "2025-01-19",
-    "time": "23:30",
-    "teams": "Slepsk Suwalki vs Lublin",
-    "league": "Poland PlusLiga",
-    "videoId": "00000",
-    "m3u8Url": "https://example.com/video1.m3u8",
-    "embedUrl": "https://www.youtube.com/embed/uDdjQnDD7hQ"
-  },
-  {
     "date": "2025-01-21",
     "time": "23:30",
     "teams": "Olsztyn vs Jastrzebski",
@@ -177,15 +78,6 @@
     "league": "Poland PlusLiga",
     "videoId": "00000",
     "m3u8Url": "https://example.com/video1.m3u8",
-    "embedUrl": "https://www.youtube.com/embed/uDdjQnDD7hQ"
-  },
-  {
-    "date": "2025-01-19",
-    "time": "12:00",
-    "teams": "Hyundai Skywalkers vs KB Stars",
-    "league": "South Korea Volleyball League",
-    "videoId": "00000",
-    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/k3blgobsy65keohrtggkvq1hasyal4chyd/playlist.m3u8?hdnts=st=1737263987~exp=1737296397~acl=*/k3blgobsy65keohrtggkvq1hasyal4chyd/*~hmac=57c04e4261cd106ef3d298abfab6cd8ebe80a795fac2736ebaa3979d6c168046",
     "embedUrl": "https://www.youtube.com/embed/uDdjQnDD7hQ"
   },
   {
@@ -231,15 +123,6 @@
     "league": "South Korea Volleyball League",
     "videoId": "00000",
     "m3u8Url": "https://example.com/video1.m3u8",
-    "embedUrl": "https://www.youtube.com/embed/uDdjQnDD7hQ"
-  },
-  {
-    "date": "2025-01-19",
-    "time": "14:00",
-    "teams": "GS Caltex W vs Pepper Savings Bank W",
-    "league": "South Korea Volleyball League Women",
-    "videoId": "00000",
-    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/o4m9n4ddznfxny4o2idrphy5ins5ke9mss/playlist.m3u8?hdnts=st=1737270081~exp=1737302491~acl=*/o4m9n4ddznfxny4o2idrphy5ins5ke9mss/*~hmac=e03703e6300414267ef393e29482411641adad0171a613a3e353435900955903",
     "embedUrl": "https://www.youtube.com/embed/uDdjQnDD7hQ"
   },
   {
