@@ -1,14 +1,5 @@
 [
   {
-    "date": "2025-01-21",
-    "time": "00:30",
-    "teams": "CSKA Sofia vs Levski Sofia",
-    "league": "Bulgaria SuperLiga",
-    "videoId": "00000",
-    "m3u8Url": "https://example.com/video1.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
     "date": "2025-01-24",
     "time": "19:00",
     "teams": "Jakarta Bhayangkara vs Palembang BS",
@@ -86,7 +77,7 @@
     "teams": "Ansan OK vs Kepco",
     "league": "South Korea Volleyball League",
     "videoId": "00000",
-    "m3u8Url": "https://example.com/video1.m3u8",
+    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/bj9lpaekjds9qkdpjj24jcfjkuyyxxtqbv/playlist.m3u8?hdnts=st=1737453223~exp=1737485633~acl=*/bj9lpaekjds9qkdpjj24jcfjkuyyxxtqbv/*~hmac=abd3aa3a56df644d0b7f6be6550db1036a1b1ac2c8506bdea12a18ba816c16ca",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
@@ -131,7 +122,7 @@
     "teams": "Hungkuk W vs IBK W",
     "league": "South Korea Volleyball League Women",
     "videoId": "00000",
-    "m3u8Url": "https://example.com/video1.m3u8",
+    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/tkpw3nidwaywbgqafpjv30sjkuyb51cwqo/playlist.m3u8?hdnts=st=1737453198~exp=1737485608~acl=*/tkpw3nidwaywbgqafpjv30sjkuyb51cwqo/*~hmac=661b20c7f359fef551c7661dcf00781281090de441a16df5b566c43f556b8a4e",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
