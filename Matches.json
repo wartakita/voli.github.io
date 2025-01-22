@@ -54,39 +54,12 @@
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
-    "date": "2025-01-21",
-    "time": "23:30",
-    "teams": "Olsztyn vs Jastrzebski",
-    "league": "Poland PlusLiga",
-    "videoId": "00000",
-    "m3u8Url": "https://example.com/video1.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
-    "date": "2025-01-22",
-    "time": "02:30",
-    "teams": "Projekt Warszawa vs Barkom",
-    "league": "Poland PlusLiga",
-    "videoId": "00000",
-    "m3u8Url": "https://example.com/video1.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
-    "date": "2025-01-21",
-    "time": "17:00",
-    "teams": "Ansan OK vs Kepco",
-    "league": "South Korea Volleyball League",
-    "videoId": "00000",
-    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/bj9lpaekjds9qkdpjj24jcfjkuyyxxtqbv/playlist.m3u8?hdnts=st=1737453223~exp=1737485633~acl=*/bj9lpaekjds9qkdpjj24jcfjkuyyxxtqbv/*~hmac=abd3aa3a56df644d0b7f6be6550db1036a1b1ac2c8506bdea12a18ba816c16ca",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
     "date": "2025-01-22",
     "time": "17:00",
     "teams": "KAL Jumbos vs Woori",
     "league": "South Korea Volleyball League",
     "videoId": "00000",
-    "m3u8Url": "https://example.com/video1.m3u8",
+    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/n5q2mfjmdn4bh3iwsidtudy4aw42dw5iup/playlist.m3u8?hdnts=st=1737539518~exp=1737571928~acl=*/n5q2mfjmdn4bh3iwsidtudy4aw42dw5iup/*~hmac=8782401d791c18106ccf1892f92aa7bce05b7993f3f11d4df058add4d2b15ff0",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
@@ -117,21 +90,12 @@
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
-    "date": "2025-01-21",
-    "time": "17:00",
-    "teams": "Hungkuk W vs IBK W",
-    "league": "South Korea Volleyball League Women",
-    "videoId": "00000",
-    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/tkpw3nidwaywbgqafpjv30sjkuyb51cwqo/playlist.m3u8?hdnts=st=1737453198~exp=1737485608~acl=*/tkpw3nidwaywbgqafpjv30sjkuyb51cwqo/*~hmac=661b20c7f359fef551c7661dcf00781281090de441a16df5b566c43f556b8a4e",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
     "date": "2025-01-22",
     "time": "17:00",
     "teams": "Hyundai E&C Hillstate W vs Daejeon JKJ W",
     "league": "South Korea Volleyball League Women",
     "videoId": "00000",
-    "m3u8Url": "https://example.com/video1.m3u8",
+    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/zl8lahge5zbgc09df1swffo6knrg5ny44k/playlist.m3u8?hdnts=st=1737539487~exp=1737571897~acl=*/zl8lahge5zbgc09df1swffo6knrg5ny44k/*~hmac=12b731395c352933dcc24699bece46ba6d47af68392e58413398105b1fbc10df",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
