@@ -14,7 +14,7 @@
     "teams": "Jakarta Elektrik W vs Bandung BJB W",
     "league": "Indonesia Proliga Women",
     "videoId": "00000",
-    "m3u8Url": "https://example.com/video1.m3u8",
+    "m3u8Url": "https://playerhpkita.blogspot.com/?id=https://etslive-v3-vidio-com-tokenized.akamaized.net/live/18234/master.m3u8?hdnts=exp=1737715082~acl=/live/18234/master.m3u8!/hls-p/ingest_18234*/*!/hls-b/ingest_18234*/*~id=175769870~hmac=d553266062cb192b1b894c49ff44da86e8f82cf6567cc8aba455698c9db770ef",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
@@ -54,15 +54,6 @@
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
-    "date": "2025-01-23",
-    "time": "17:00",
-    "teams": "KB Stars vs Samsung Blue Fangs",
-    "league": "South Korea Volleyball League",
-    "videoId": "00000",
-    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/pns70uh88zk2cau4ndeipdhhed8w1p6s7n/playlist.m3u8?hdnts=st=1737626257~exp=1737658667~acl=*/pns70uh88zk2cau4ndeipdhhed8w1p6s7n/*~hmac=90a3f2cd8ddf567c6f3a8f63e70631f158bce6cabb1f40089b0bd1a3451525d4",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
     "date": "2025-01-24",
     "time": "17:00",
     "teams": "Kepco vs Hyundai Skywalkers",
@@ -78,15 +69,6 @@
     "league": "South Korea Volleyball League",
     "videoId": "00000",
     "m3u8Url": "https://example.com/video1.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
-    "date": "2025-01-23",
-    "time": "17:00",
-    "teams": "Pepper Savings Bank W vs Expressway Co W",
-    "league": "South Korea Volleyball League Women",
-    "videoId": "00000",
-    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/wqibosubtnan9323mnswzpjjmk9nulgv6i/playlist.m3u8?hdnts=st=1737626282~exp=1737658692~acl=*/wqibosubtnan9323mnswzpjjmk9nulgv6i/*~hmac=d5fcb2e0362abd47167e03683ec965821b77be408521962657fb63610de59c29",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
