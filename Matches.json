@@ -1,30 +1,12 @@
 [
   {
-    "date": "2025-01-24",
-    "time": "19:00",
-    "teams": "Jakarta Bhayangkara vs Palembang BS",
-    "league": "Indonesia Proliga",
-    "videoId": "00000",
-    "m3u8Url": "https://example.com/video1.m3u8",
-    "embedUrl": "https://playerhpkita.blogspot.com/?id=https://etslive-v3-vidio-com-tokenized.akamaized.net/live/18234/master.m3u8?hdnts=exp=1737736359~acl=/live/18234/master.m3u8!/hls-p/ingest_18234*/*!/hls-b/ingest_18234*/*~id=175769870~hmac=630e68835cb8c757bb2797f7bb7ca52b2f8cd085d4b5c056378397719293bf89"
-  },
-  {
-    "date": "2025-01-24",
-    "time": "16:30",
-    "teams": "Jakarta Livin Mandiri W vs Yogya Falcons W",
-    "league": "Indonesia Proliga Women",
-    "videoId": "00000",
-    "m3u8Url": "https://example.com/video1.m3u8",
-    "embedUrl": "https://playerhpkita.blogspot.com/?id=https://etslive-v3-vidio-com-tokenized.akamaized.net/live/18234/master.m3u8?hdnts=exp=1737725481~acl=/live/18234/master.m3u8!/hls-p/ingest_18234*/*!/hls-b/ingest_18234*/*~id=175769870~hmac=174eb4f278702b43d3dc7f053066a16caa20a5476d06849a4817ecd9849eb8d8"
-  },
-  {
     "date": "2025-01-25",
     "time": "14:00",
     "teams": "Gresik Petrokimia W vs Bandung BJB W",
     "league": "Indonesia Proliga Women",
     "videoId": "00000",
     "m3u8Url": "https://example.com/video1.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
+    "embedUrl": "https://playerhpkita.blogspot.com/?id=https://etslive-v3-vidio-com-tokenized.akamaized.net/live/18234/master.m3u8?hdnts=exp=1737801036~acl=/live/18234/master.m3u8!/hls-p/ingest_18234*/*!/hls-b/ingest_18234*/*~id=175769870~hmac=77b1ef9cec4a91ba5e4b5b80a5ff66ac0ee9272e273b3f712d0462454b4b7e4c"
   },
   {
     "date": "2025-01-25",
@@ -42,33 +24,6 @@
     "league": "Indonesia Proliga Women",
     "videoId": "00000",
     "m3u8Url": "https://example.com/video1.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
-    "date": "2025-01-24",
-    "time": "17:00",
-    "teams": "Kepco vs Hyundai Skywalkers",
-    "league": "South Korea Volleyball League",
-    "videoId": "00000",
-    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/j2e68yfnrk5vktqgl9adxuaaa23tiwn12r/playlist.m3u8?hdnts=st=1737713462~exp=1737745872~acl=*/j2e68yfnrk5vktqgl9adxuaaa23tiwn12r/*~hmac=fe13f3f2aa52bba209fb257f07ebd6c895a6a54cdadc91d99c0d1094f0a4c904",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
-    "date": "2025-01-25",
-    "time": "12:00",
-    "teams": "Ansan OK vs KAL Jumbos",
-    "league": "South Korea Volleyball League",
-    "videoId": "00000",
-    "m3u8Url": "https://example.com/video1.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
-    "date": "2025-01-24",
-    "time": "17:00",
-    "teams": "IBK W vs GS Caltex W",
-    "league": "South Korea Volleyball League Women",
-    "videoId": "00000",
-    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/fkbrle8lt6awnpdm6b6dictaa26uvofmxo/playlist.m3u8?hdnts=st=1737713435~exp=1737745845~acl=*/fkbrle8lt6awnpdm6b6dictaa26uvofmxo/*~hmac=4a50de629be648cbb9c75558ec19977aaf3298b8f48c5426371a5b0e88138b72",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
