@@ -158,7 +158,7 @@
     "teams": "Hyundai E&C Hillstate W vs GS Caltex W",
     "league": "Korea Selatan: Liga Voli Wanita",
     "videoId": "00020",
-    "m3u8Url": "https://example.com/video20.m3u8",
+    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/i52h6gferqexlgadgcb3yqj5rgs32locpx/playlist.m3u8?hdnts=st=1738133674~exp=1738166084~acl=*/i52h6gferqexlgadgcb3yqj5rgs32locpx/*~hmac=99be3b17a52a540551909bc744a41c51d80948c2f4cfbe7a553374c23ee91ede",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
