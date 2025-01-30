@@ -1,14 +1,5 @@
 [
   {
-    "date": "2025-01-29",
-    "time": "12:00",
-    "teams": "KAL Jumbos vs Hyundai Skywalkers",
-    "league": "Korea Selatan: Liga Voli",
-    "videoId": "00002",
-    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/vusi84qkj1stf6kibagk0qip7jo170ocsd/playlist.m3u8?hdnts=st=1738131824~exp=1738164234~acl=*/vusi84qkj1stf6kibagk0qip7jo170ocsd/*~hmac=35e8d2cb6f752495af2804a02ab61bf42b86eda50f55f83f142752e2b28719bb",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
     "date": "2025-01-30",
     "time": "12:00",
     "teams": "Woori vs Ansan OK",
@@ -150,15 +141,6 @@
     "league": "Korea Selatan: Liga Voli",
     "videoId": "00018",
     "m3u8Url": "https://example.com/video18.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
-    "date": "2025-01-29",
-    "time": "14:00",
-    "teams": "Hyundai E&C Hillstate W vs GS Caltex W",
-    "league": "Korea Selatan: Liga Voli Wanita",
-    "videoId": "00020",
-    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/i52h6gferqexlgadgcb3yqj5rgs32locpx/playlist.m3u8?hdnts=st=1738133674~exp=1738166084~acl=*/i52h6gferqexlgadgcb3yqj5rgs32locpx/*~hmac=99be3b17a52a540551909bc744a41c51d80948c2f4cfbe7a553374c23ee91ede",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
