@@ -5,7 +5,7 @@
     "teams": "Woori vs Ansan OK",
     "league": "Korea Selatan: Liga Voli",
     "videoId": "00003",
-    "m3u8Url": "https://example.com/video3.m3u8",
+    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/xael5thlcffkslauawgcdgvpbsc2ljwpfy/playlist.m3u8?hdnts=st=1738213019~exp=1738245429~acl=*/xael5thlcffkslauawgcdgvpbsc2ljwpfy/*~hmac=3110978f68d439a6755fcff526c1ef47e16b220e419045ea71bd26a861ca4571",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
