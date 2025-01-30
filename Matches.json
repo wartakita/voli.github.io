@@ -149,7 +149,7 @@
     "teams": "Daejeon JJK W vs Hungkuk W",
     "league": "Korea Selatan: Liga Voli Wanita",
     "videoId": "00021",
-    "m3u8Url": "https://example.com/video21.m3u8",
+    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/rdwybghhgijmaqpc9sax52j4hicr1hew8a/playlist.m3u8?hdnts=st=1738211630~exp=1738244040~acl=*/rdwybghhgijmaqpc9sax52j4hicr1hew8a/*~hmac=f9caf1ebb0891410f18700ad96f1ed1333c76d02d1cb7c88da79e2633b700258",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
