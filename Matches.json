@@ -5,7 +5,7 @@
     "teams": "KB Stars vs Kepco",
     "league": "Korea Selatan: Liga Voli",
     "videoId": "00004",
-    "m3u8Url": "https://example.com/video4.m3u8",
+    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/xfjvbusj87amzmcszvdx7o5w9fd9q8hx60/playlist.m3u8?hdnts=st=1738317330~exp=1738349740~acl=*/xfjvbusj87amzmcszvdx7o5w9fd9q8hx60/*~hmac=0bd8cf23b8a2b1a0534f7fd6c04e16dad73dabe7b30f796a3ab3d14a60bb0838",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
@@ -140,7 +140,7 @@
     "teams": "Pepper Savings Bank W vs IBK W",
     "league": "Korea Selatan: Liga Voli Wanita",
     "videoId": "00022",
-    "m3u8Url": "https://example.com/video22.m3u8",
+    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/3659cydkkx2zkpgf6uqvl0bqcp1swwfx84/playlist.m3u8?hdnts=st=1738317300~exp=1738349710~acl=*/3659cydkkx2zkpgf6uqvl0bqcp1swwfx84/*~hmac=aab20025b2b6598b737c217625fcc5b22a06bb8a826fcc1ed8e14d96e52f8342",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
