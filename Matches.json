@@ -1,14 +1,5 @@
 [
   {
-    "date": "2025-01-30",
-    "time": "12:00",
-    "teams": "Woori vs Ansan OK",
-    "league": "Korea Selatan: Liga Voli",
-    "videoId": "00003",
-    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/xael5thlcffkslauawgcdgvpbsc2ljwpfy/playlist.m3u8?hdnts=st=1738213019~exp=1738245429~acl=*/xael5thlcffkslauawgcdgvpbsc2ljwpfy/*~hmac=3110978f68d439a6755fcff526c1ef47e16b220e419045ea71bd26a861ca4571",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
     "date": "2025-01-31",
     "time": "17:00",
     "teams": "KB Stars vs Kepco",
@@ -141,15 +132,6 @@
     "league": "Korea Selatan: Liga Voli",
     "videoId": "00018",
     "m3u8Url": "https://example.com/video18.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
-    "date": "2025-01-30",
-    "time": "11:35",
-    "teams": "Daejeon JJK W vs Hungkuk W",
-    "league": "Korea Selatan: Liga Voli Wanita",
-    "videoId": "00021",
-    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/rdwybghhgijmaqpc9sax52j4hicr1hew8a/playlist.m3u8?hdnts=st=1738211630~exp=1738244040~acl=*/rdwybghhgijmaqpc9sax52j4hicr1hew8a/*~hmac=f9caf1ebb0891410f18700ad96f1ed1333c76d02d1cb7c88da79e2633b700258",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
