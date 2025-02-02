@@ -1,29 +1,11 @@
 [
   {
-    "date": "2025-01-31",
-    "time": "17:00",
-    "teams": "KB Stars vs Kepco",
-    "league": "Korea Selatan: Liga Voli",
-    "videoId": "00004",
-    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/xfjvbusj87amzmcszvdx7o5w9fd9q8hx60/playlist.m3u8?hdnts=st=1738317330~exp=1738349740~acl=*/xfjvbusj87amzmcszvdx7o5w9fd9q8hx60/*~hmac=0bd8cf23b8a2b1a0534f7fd6c04e16dad73dabe7b30f796a3ab3d14a60bb0838",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
-    "date": "2025-02-01",
-    "time": "12:00",
-    "teams": "Hyundai Skywalkers vs Samsung Blue Fangs",
-    "league": "Korea Selatan: Liga Voli",
-    "videoId": "00005",
-    "m3u8Url": "https://example.com/video5.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
     "date": "2025-02-02",
     "time": "12:00",
     "teams": "Ansan OK vs Woori",
     "league": "Korea Selatan: Liga Voli",
     "videoId": "00006",
-    "m3u8Url": "https://example.com/video6.m3u8",
+    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/un1re00xtm4rubupgrjayk0juw3ngr0vmz/playlist.m3u8?hdnts=st=1738473428~exp=1738505838~acl=*/un1re00xtm4rubupgrjayk0juw3ngr0vmz/*~hmac=0b9c003237605c568ef8291054ba6a8c2d6d9d9fb7d3b0d0a4302243a7ca9a9b",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
@@ -132,24 +114,6 @@
     "league": "Korea Selatan: Liga Voli",
     "videoId": "00018",
     "m3u8Url": "https://example.com/video18.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
-    "date": "2025-01-31",
-    "time": "17:00",
-    "teams": "Pepper Savings Bank W vs IBK W",
-    "league": "Korea Selatan: Liga Voli Wanita",
-    "videoId": "00022",
-    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/3659cydkkx2zkpgf6uqvl0bqcp1swwfx84/playlist.m3u8?hdnts=st=1738317300~exp=1738349710~acl=*/3659cydkkx2zkpgf6uqvl0bqcp1swwfx84/*~hmac=aab20025b2b6598b737c217625fcc5b22a06bb8a826fcc1ed8e14d96e52f8342",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
-    "date": "2025-02-01",
-    "time": "14:00",
-    "teams": "GS Caltex W vs Expressway Co W",
-    "league": "Korea Selatan: Liga Voli Wanita",
-    "videoId": "00023",
-    "m3u8Url": "https://example.com/video23.m3u8",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
@@ -486,51 +450,6 @@
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
-    "date": "2025-02-01",
-    "time": "10:05",
-    "teams": "Suntory Sunbirds vs JTEKT",
-    "league": "Jepang: SV.League",
-    "videoId": "00061",
-    "m3u8Url": "https://example.com/video61.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
-    "date": "2025-02-01",
-    "time": "12:05",
-    "teams": "Nagano vs Tokyo Great Bears",
-    "league": "Jepang: SV.League",
-    "videoId": "00062",
-    "m3u8Url": "https://example.com/video62.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
-    "date": "2025-02-01",
-    "time": "11:05",
-    "teams": "Osaka Bluteon vs JT Thunders",
-    "league": "Jepang: SV.League",
-    "videoId": "00063",
-    "m3u8Url": "https://example.com/video63.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
-    "date": "2025-02-01",
-    "time": "12:05",
-    "teams": "Osaka Sakai vs Voreas Hokkaido",
-    "league": "Jepang: SV.League",
-    "videoId": "00064",
-    "m3u8Url": "https://example.com/video64.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
-    "date": "2025-02-01",
-    "time": "13:35",
-    "teams": "Nagoya vs Toray Arrows",
-    "league": "Jepang: SV.League",
-    "videoId": "00065",
-    "m3u8Url": "https://example.com/video65.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
     "date": "2025-02-02",
     "time": "10:05",
     "teams": "Suntory Sunbirds vs JTEKT",
@@ -545,7 +464,7 @@
     "teams": "Nagano vs Tokyo Great Bears",
     "league": "Jepang: SV.League",
     "videoId": "00067",
-    "m3u8Url": "https://example.com/video67.m3u8",
+    "m3u8Url": "https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UHzHrOLR/live.isml/.m3u8",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
@@ -554,7 +473,7 @@
     "teams": "Osaka Sakai vs Voreas Hokkaido",
     "league": "Jepang: SV.League",
     "videoId": "00068",
-    "m3u8Url": "https://example.com/video68.m3u8",
+    "m3u8Url": "https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ng0LAiul/live.isml/.m3u8",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
@@ -563,7 +482,7 @@
     "teams": "Osaka Bluteon vs JT Thunders",
     "league": "Jepang: SV.League",
     "videoId": "00069",
-    "m3u8Url": "https://example.com/video69.m3u8",
+    "m3u8Url": "https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/92kfP9bL/live.isml/.m3u8",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
@@ -572,7 +491,7 @@
     "teams": "Nagoya vs Toray Arrows",
     "league": "Jepang: SV.League",
     "videoId": "00070",
-    "m3u8Url": "https://example.com/video70.m3u8",
+    "m3u8Url": "https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PGN6uxN1/live.isml/.m3u8",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
