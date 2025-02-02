@@ -557,13 +557,13 @@
     "m3u8Url": "https://example.com/video77.m3u8",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
-    {
+  {
     "date": "2025-02-02",
     "time": "14:00",
     "teams": "Hungkuk W vs Daejeon JJK W",
     "league": "Korea Selatan: Liga Voli Wanita",
     "videoId": "00024",
-    "m3u8Url": "https://example.com/video24.m3u8",
+    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/jvijhmwylxbpijrcgv9plljnjh84gh888k/playlist.m3u8?hdnts=st=1738478910~exp=1738511320~acl=*/jvijhmwylxbpijrcgv9plljnjh84gh888k/*~hmac=6b962234b98a18cf7e88d51f9cd4d9bf9c3cd2358061a05a94c9025569b41549",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
