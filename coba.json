@@ -1,0 +1,20 @@
+[
+  {
+    "teamA": "Team A",
+    "teamB": "Team B",
+    "league": "Pro League 2023",
+    "time": "19:00 WIB",
+    "date": "25 July 2023",
+    "streamUrl": "https://your-stream-url.com/stream.m3u8",
+    "iframeURL": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
+  },
+  {
+    "teamA": "Team C",
+    "teamB": "Team D",
+    "league": "Pro League 2023",
+    "time": "21:00 WIB",
+    "date": "26 July 2023",
+    "streamUrl": "https://another-stream-url.com/stream.m3u8",
+    "iframeURL": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
+  }
+]
