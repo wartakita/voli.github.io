@@ -24,24 +24,29 @@
 
         // Mendapatkan nilai parameter 'id'
         const videoId = getParameterByName('id');
+        console.log('Video ID:', videoId); // Tambahkan baris ini
 
-        const dp = new DPlayer({
-            container: document.getElementById('dplayer'),
-            live: true,
-            autoplay: true,
-            loop: true,
-            video: {
-                url: videoId, // Menggunakan nilai parameter 'id' sebagai URL video
-                type: 'hls',
-            },
-            pluginOptions: {
-                hls: {
-                    // hls config
+        if (videoId) {
+            const dp = new DPlayer({
+                container: document.getElementById('dplayer'),
+                live: true,
+                autoplay: true,
+                loop: true,
+                video: {
+                    url: videoId, // Menggunakan nilai parameter 'id' sebagai URL video
+                    type: 'hls',
                 },
-            },
-        });
+                pluginOptions: {
+                    hls: {
+                        // hls config
+                    },
+                },
+            });
 
-        console.log(dp.plugins.hls); // Hls instance
+            console.log(dp.plugins.hls); // Hls instance
+        } else {
+            console.error('Parameter "id" tidak ditemukan atau kosong.');
+        }
     </script>
 </body>
 
