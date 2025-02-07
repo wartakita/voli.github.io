@@ -1,14 +1,5 @@
 [
   {
-    "date": "2025-02-06",
-    "time": "17:00",
-    "teams": "Expressway Co W vs Hungkuk W",
-    "league": "Korea Selatan: Liga Voli",
-    "videoId": "00001",
-    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/r7sqrjwbfko0x0zrlvapmf3ehsxr6znogl/playlist.m3u8?hdnts=st=1738836736~exp=1738869146~acl=*/r7sqrjwbfko0x0zrlvapmf3ehsxr6znogl/*~hmac=87b5984252ad315ac7753922ff2f4fc96ff97f816ff7b019addf63a99b8645bd",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
     "date": "2025-02-07",
     "time": "17:00",
     "teams": "Daejeon KJC W vs Hyundai E&C Hillstate W",
@@ -114,15 +105,6 @@
     "league": "Korea Selatan: Liga Voli",
     "videoId": "00013",
     "m3u8Url": "https://example.com/video13.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
-    "date": "2025-02-06",
-    "time": "17:00",
-    "teams": "Samsung Blue Fangs vs Ansan OK",
-    "league": "Korea Selatan: Liga Voli",
-    "videoId": "00001",
-    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/s98fai7s1w2kha9djjn1wogjygy59et0sq/playlist.m3u8?hdnts=st=1738836769~exp=1738869179~acl=*/s98fai7s1w2kha9djjn1wogjygy59et0sq/*~hmac=4dc0535758cffebcd4a06f1bd234858cfa4560b2cbe62ef56668c2155b86f08a",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
@@ -346,7 +328,7 @@
     "time": "14:00",
     "teams": "Jakarta Livin Mandiri W vs Jakarta Elektrik W",
     "league": "Indonesia: Proliga Wanita",
-    "videoId": "00001",
+    "videoId": "26320",
     "m3u8Url": "https://example.com/video1.m3u8",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
@@ -355,7 +337,7 @@
     "time": "16:30",
     "teams": "Bandung BJB W vs Jakarta Popsivo W",
     "league": "Indonesia: Proliga Wanita",
-    "videoId": "00002",
+    "videoId": "40340",
     "m3u8Url": "https://example.com/video2.m3u8",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
@@ -445,7 +427,7 @@
     "time": "16:30",
     "teams": "Jakarta Livin Mandiri W vs Jakarta Popsivo W",
     "league": "Indonesia: Proliga Wanita",
-    "videoId": "00012",
+    "videoId": "26320",
     "m3u8Url": "https://example.com/video12.m3u8",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
@@ -454,7 +436,7 @@
     "time": "19:00",
     "teams": "Putra Jakarta Garuda vs Jakarta Lavani",
     "league": "Indonesia: Proliga",
-    "videoId": "00001",
+    "videoId": "27210",
     "m3u8Url": "https://example.com/video1.m3u8",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
