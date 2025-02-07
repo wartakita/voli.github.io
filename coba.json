@@ -1,14 +1,5 @@
 [
   {
-    "date": "2025-02-07",
-    "time": "17:00",
-    "teams": "Daejeon KJC W vs Hyundai E&C Hillstate W",
-    "league": "Korea Selatan: Liga Voli",
-    "videoId": "00002",
-    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/daeln3wku0qpxzo7yrdrrtujzbhslnz80y/playlist.m3u8?hdnts=st=1738921311~exp=1738953721~acl=*/daeln3wku0qpxzo7yrdrrtujzbhslnz80y/*~hmac=4742479569d73606fbca3622663e8b57a82e811aa54d9583dc9f597e58aef828",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
     "date": "2025-02-08",
     "time": "14:00",
     "teams": "GS Caltex W vs IBK W",
@@ -105,15 +96,6 @@
     "league": "Korea Selatan: Liga Voli",
     "videoId": "00013",
     "m3u8Url": "https://example.com/video13.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
-  },
-  {
-    "date": "2025-02-07",
-    "time": "17:00",
-    "teams": "Woori vs KAL Jumbos",
-    "league": "Korea Selatan: Liga Voli",
-    "videoId": "00002",
-    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/swgbxbxqmgw7zsdtldtvmdrjzbq02uegtv/playlist.m3u8?hdnts=st=1738921870~exp=1738954280~acl=*/swgbxbxqmgw7zsdtldtvmdrjzbq02uegtv/*~hmac=af035be560211b87aa8fb09b02ab98f16114348e84424b1a4af514c805e85ebd",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
@@ -324,24 +306,6 @@
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
-    "date": "2025-02-07",
-    "time": "14:00",
-    "teams": "Jakarta Livin Mandiri W vs Jakarta Elektrik W",
-    "league": "Indonesia: Proliga Wanita",
-    "videoId": "26320",
-    "m3u8Url": "https://example.com/video1.m3u8",
-    "embedUrl": "http://playerhpkita.blogspot.com/?id=https://etslive-v3-vidio-com-tokenized.akamaized.net/live/18234/master.m3u8?hdnts=exp=1738932046~acl=/live/18234/master.m3u8!/hls-p/ingest_18234*/*!/hls-b/ingest_18234*/*~id=175769870~hmac=322532f6718deeeec6281afcae6b7016d97cefa2002307f70ea441e368bf5aff"
-  },
-  {
-    "date": "2025-02-07",
-    "time": "16:30",
-    "teams": "Bandung BJB W vs Jakarta Popsivo W",
-    "league": "Indonesia: Proliga Wanita",
-    "videoId": "40340",
-    "m3u8Url": "https://example.com/video2.m3u8",
-    "embedUrl": "http://playerhpkita.blogspot.com/?id=https://etslive-v3-vidio-com-tokenized.akamaized.net/live/18234/master.m3u8?hdnts=exp=1738935673~acl=/live/18234/master.m3u8!/hls-p/ingest_18234*/*!/hls-b/ingest_18234*/*~id=175769870~hmac=17b7f70fea1dbe6c04a871b8eec1f9858d86b14b941602e1f28890358a2a6fe4"
-  },
-  {
     "date": "2025-02-08",
     "time": "14:00",
     "teams": "Jakarta Pertamina W vs Gresik Petrokimia W",
@@ -438,7 +402,7 @@
     "league": "Indonesia: Proliga",
     "videoId": "27210",
     "m3u8Url": "https://example.com/video1.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
+    "embedUrl": "http://playerhpkita.blogspot.com/?id=https://etslive-v3-vidio-com-tokenized.akamaized.net/live/18234/master.m3u8?hdnts=exp=1738948353~acl=/live/18234/master.m3u8!/hls-p/ingest_18234*/*!/hls-b/ingest_18234*/*~id=175769870~hmac=e827da9b5db1915452d49bdb78004c8cf061d6b6d6c118222c64654b4edb2e4a"
   },
   {
     "date": "2025-02-08",
