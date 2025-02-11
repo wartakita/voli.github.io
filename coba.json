@@ -5,7 +5,7 @@
     "teams": "Hyundai E&C Hillstate W vs Daejeon KJC W",
     "league": "Korea Selatan: Liga Voli",
     "videoId": "00005",
-    "m3u8Url": "https://example.com/video5.m3u8",
+    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/rhaldvrqmm2k0zxceiq3jpek2q4oe2zw5r/playlist.m3u8?hdnts=st=1739267550~exp=1739299960~acl=*/rhaldvrqmm2k0zxceiq3jpek2q4oe2zw5r/*~hmac=99abbbb49a2006d115cccddfb2cd79a94eebb7f33c34a8e3c3328d831e858132",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
@@ -86,7 +86,7 @@
     "teams": "KAL Jumbos vs Samsung Blue Fangs",
     "league": "Korea Selatan: Liga Voli",
     "videoId": "00005",
-    "m3u8Url": "https://example.com/video5.m3u8",
+    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/uu4wkcgwbslxgwv7q7dpujggis39mmcomx/playlist.m3u8?hdnts=st=1739267597~exp=1739300007~acl=*/uu4wkcgwbslxgwv7q7dpujggis39mmcomx/*~hmac=ee8c60f63921d7104eba22fce8333a1ab1bfa71f64a96d2f8598fa8e26172d0d",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
