@@ -5,7 +5,7 @@
     "teams": "Hungkuk W vs GS Caltex W",
     "league": "Korea Selatan: Liga Voli",
     "videoId": "00007",
-    "m3u8Url": "https://example.com/video7.m3u8",
+    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/w3lj2jjvihftl2pnnhzwtbbnnvki3d4wbu/playlist.m3u8?hdnts=st=1739440563~exp=1739472973~acl=*/w3lj2jjvihftl2pnnhzwtbbnnvki3d4wbu/*~hmac=b9cbedc6963f12e87e9cc2545786326f42758199ccdb2ccacd64207c9660af08",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
@@ -68,7 +68,7 @@
     "teams": "Ansan OK vs Hyundai Skywalkers",
     "league": "Korea Selatan: Liga Voli",
     "videoId": "00007",
-    "m3u8Url": "https://example.com/video7.m3u8",
+    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/f072ungxdolhxd6yn9jpwm3lkhg6lso7fw/playlist.m3u8?hdnts=st=1739439942~exp=1739472352~acl=*/f072ungxdolhxd6yn9jpwm3lkhg6lso7fw/*~hmac=27e198eb33fae0b16c2cb2b36de1c4dd91a5e849024148c802b2b168fa814b0c",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
