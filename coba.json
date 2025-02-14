@@ -59,7 +59,7 @@
     "teams": "KAL Jumbos vs KB Stars",
     "league": "Korea Selatan: Liga Voli",
     "videoId": "00008",
-    "m3u8Url": "https://example.com/video8.m3u8",
+    "m3u8Url": "https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/zdo7xquresplygfihpczun4k5a23gelqt7/playlist.m3u8?hdnts=st=1739526731~exp=1739559141~acl=*/zdo7xquresplygfihpczun4k5a23gelqt7/*~hmac=8d6eeadc6d6fee22b5726bf590bf295516b1e82131fd69319e1c373726344c21",
     "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
