@@ -4,19 +4,17 @@
     "time": "19:00",
     "teams": "Team A vs Team B",
     "league": "League A",
-    "videoId": "10670861",
-    "m3u8Url": "https://example.com/video.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4",
-    "liveId": "10670861"
+    "liveId": "10670861",
+    "m3u8Url": "https://example.com/stream.m3u8",
+    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   },
   {
     "date": "2024-02-20",
     "time": "20:00",
     "teams": "Team C vs Team D",
     "league": "League B",
-    "videoId": "67890",
-    "m3u8Url": "https://example.com/video.m3u8",
-    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4",
-    "liveId": "10670862"
+    "liveId": "10670862",
+    "m3u8Url": "https://example.com/stream2.m3u8",
+    "embedUrl": "https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://vibetv.github.io/offline/streamoffline.mp4"
   }
 ]
