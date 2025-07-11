@@ -13,3 +13,17 @@ https://gasruktv.my.id/sakura/vid.mpd?id=19050
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/vid.mpd?id=18853
 https://gasruktv.my.id/sakura/vid.mpd?id=18853
+
+#EXTINF:-1 group-title="VIDIOTV" tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/4S55d0i94p-RevrBKlwv_T17eMQ=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg", SPOTV 2
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/vid.mpd?id=17140
+https://gasruktv.my.id/sakura/vid.mpd?id=17140
+
+#EXTINF:-1 group-title="VIDIOTV" tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/3z4IXSoTGsuKPvJPvNPJ6GV0HNs=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg", SPOTV 
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/vid.mpd?id=17139
+https://gasruktv.my.id/sakura/vid.mpd?id=17139
