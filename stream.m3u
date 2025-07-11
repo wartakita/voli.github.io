@@ -1,0 +1,15 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="VIDIOTV" tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/ZAc9By5jmMH5Xl79u2AyECXwm5o=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/455/sea-vleague-723c9f.png", Sea Vleague
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/drm.php?id=19050
+https://gasruktv.my.id/sakura/vid.mpd?id=19050
+
+#EXTINF:-1 group-title="VIDIOTV" tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/lB2ANu-zh_9YTL7QdtzmfV4fh7E=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/168/vnl-e09675.png", VNL
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmvid.gasruktv.workers.dev/?id=18853
+https://mpdvid.gasruktv.workers.dev/play.mpd?id=18853&type=dash
