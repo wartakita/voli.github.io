@@ -11,5 +11,5 @@ https://gasruktv.my.id/sakura/vid.mpd?id=19050
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvid.gasruktv.workers.dev/?id=18853
-https://mpdvid.gasruktv.workers.dev/play.mpd?id=18853&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/vid.mpd?id=18853
+https://gasruktv.my.id/sakura/vid.mpd?id=18853
